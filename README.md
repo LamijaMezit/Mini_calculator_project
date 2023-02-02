@@ -1,2 +1,2 @@
 # HTML_CSS_JS
-Mini project
+Mini calculator project Using HTML, CSS, and JavaScript.
